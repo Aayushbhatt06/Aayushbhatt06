@@ -24,15 +24,16 @@
 const aayush = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
-    currentFocus: ["IoT", "AI Integration", "Embedded Systems"],
-    interests: ["Hardware Projects", "Automation", "Smart Systems"],
+    currentFocus: ["Full Stack Development", "AI Integration", "Web Applications"],
+    interests: ["Modern Web Tech", "API Development", "UI/UX Design"],
     funFact: "I turn caffeine into code ☕➡️💻",
-    askMeAbout: ["Arduino", "AI Chatbots", "IoT Solutions"],
+    askMeAbout: ["Web Development", "AI Chatbots", "JavaScript", "APIs"],
     technologies: {
-        languages: ["JavaScript", "C++", "Python"],
-        hardware: ["Arduino", "Sensors", "Bluetooth Modules"],
-        tools: ["VS Code", "Git", "Node.js"],
-        currentlyLearning: ["Machine Learning", "Cloud IoT"]
+        languages: ["JavaScript", "Python", "HTML/CSS", "SQL"],
+        frontend: ["React", "Node.js", "Tailwind CSS", "Bootstrap"],
+        backend: ["Express.js", "REST APIs", "MongoDB", "MySQL"],
+        tools: ["VS Code", "Git", "Postman", "npm"],
+        currentlyLearning: ["Next.js", "TypeScript", "Cloud Deployment"]
     }
 };
 ```
